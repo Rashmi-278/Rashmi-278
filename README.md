@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rashmi
-- I enjoy learning about new technologies and how they work. Computer science, chemistry and sports are where I can just zone out and be engaged.
+- I enjoy learning about new technologies and how they work. 
 - 🔭 I'm currently working on Meed, a bounty board app for individual companies.
 - 🌱 I'm currently learning web2 and web3 tools and I like working with Next.js.
 - I'm also researching about scalable web3 tools and blockchains.
