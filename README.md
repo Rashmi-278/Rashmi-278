@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rashmi
 - I enjoy learning about new technologies and how they work. 
-- 🔭 I'm currently working partime with Boardroom.
+- 🔭 I'm currently working with Boardroom.
 - 🌱 I'm currently learning web2 and web3 tools and I like working with Next.js.
 - I'm also researching about scalable web3 tools and blockchains.
 - You can reach me on twitter @rashmivabbigeri
