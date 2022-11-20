@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Rashmi
+- I’m currently working with OpScientia
 - I enjoy learning about new technologies and how they work. 
 - 🔭 I'm currently looking for a full time job.
 - 🌱 I'm currently learning web2 and web3 tools and I like working with Next.js.
