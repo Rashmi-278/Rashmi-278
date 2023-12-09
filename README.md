@@ -5,6 +5,7 @@
 - You can reach me on twitter @rashmivabbigeri
 - My pronouns are She/Her
 - Here's a link to my resume: https://resume.io/r/SOxdzZjbl
+- Follow me on twitter https://twitter.com/rashmivabbigeri
 
 <!--
 **Rashmi-278/Rashmi-278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
