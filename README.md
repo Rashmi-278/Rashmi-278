@@ -4,7 +4,7 @@
 - I'm also researching about scalable web3 tools and blockchains.
 - You can reach me on twitter @rashmivabbigeri
 - My pronouns are She/Her
-- Here's a link to my resume: https://resume.io/r/SOxdzZjbl
+- Here's a link to my resume: https://hackmd.io/@torchablazed/HyaHgDBeA
 - Follow me on twitter https://twitter.com/rashmivabbigeri
 
 <!--
